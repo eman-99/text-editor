@@ -14,12 +14,16 @@ In this section, we'll learn the basics of moving around the system. Many tasks 
 
 ##**stuff we learnt**
 *pwd
-Print Working Directory - ie. Where are we currently.
+Print Working Directory - ie. Where are we currently
+
 *ls
 List the contents of a directory.
+
 *cd
 Change Directories - ie. move to another directory
+
 *file
-obtain information about what type of file a file or directory is.
+obtain information about what type of file a file or directory is
+
 *ls -a
 List the contents of a directory, including hidden files.
